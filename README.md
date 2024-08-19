@@ -33,7 +33,7 @@ The QR Code Scanner project is a React-based application designed to scan QR cod
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd react_task1
+   cd void
    ```
 3. **Install Dependencies**:
 
